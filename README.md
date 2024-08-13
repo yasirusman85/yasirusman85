@@ -1,0 +1,3 @@
+As Nebula Community's Founder, my educational foundation in Electrical Engineering from Riphah International University propels our mission to foster a learning hub for innovation and skill development. Our platform thrives on the principles of inclusivity and knowledge sharing, leveraging my expertise in start-up leadership to orchestrate a vibrant, collaborative space.
+
+Previously, as an Alpha Microsoft Learn Student Ambassador, I honed my content creation skills, crafting engaging materials that demystify Microsoft technologies. This role amplified my ability to distill complex information into accessible content, nurturing a community eager to embrace technological advances and continuous learning.
