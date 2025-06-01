@@ -1,6 +1,6 @@
 # 👨‍💻 Yasir Usman | AI & ML Enthusiast | Data Scientist | Community Builder  
 
-**📚 Electrical Engineer | 🌐 Founder, Nebula Community | 💡 Microsoft Learn Student Ambassador (Alpha)**  
+**📚 Engineer | 🌐 Founder, Nebula Community | 💡 Microsoft Learn Student Ambassador (Alpha)**  
 
 ---
 
@@ -38,7 +38,10 @@ As the **Founder of Nebula Community**, I’ve established a platform that bring
 ---
 
 ### 🌟 Highlighted Projects  
-
+- **[Air-Writing Recognition System](https://github.com/yourusername/air-writing-recognition):**  
+   Developed a real-time computer vision system that captures mid-air hand gestures using OpenCV and
+MediaPipe.
+  
 - **[Breast Cancer Prediction Model](https://breast-cancer-prediction-model-vzixzj2wv2q8hkokjfm5kf.streamlit.app/):**  
    Built an intuitive **Streamlit-based ML model** for real-time breast mass classification.  
 
